@@ -1,0 +1,7 @@
+{ "title" : "Aplication Prodemefa",
+  "@title": {
+    "description": "the text on the bar",
+    "type": "text",
+    "placeholders": {}
+  }
+}

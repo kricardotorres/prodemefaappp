@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-07-27T20:27:09.195605",
+  "title": "Prodemefa Aplicacion",
+  "@title": {
+    "description": "the text on the bar",
+    "type": "text",
+    "placeholders": {}
+  }
+}
